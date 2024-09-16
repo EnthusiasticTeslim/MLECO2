@@ -1,0 +1,36 @@
+Target HCOO
+Model 0
+Train R2: 0.993, Test R2: 0.914, Train MAE: 0.013, Test MAE: 0.050, Train RMSE: 0.000, Test RMSE: 0.004
+Model 1
+Train R2: 0.990, Test R2: 0.896, Train MAE: 0.017, Test MAE: 0.049, Train RMSE: 0.000, Test RMSE: 0.005
+Model 2
+Train R2: 0.990, Test R2: 0.923, Train MAE: 0.016, Test MAE: 0.044, Train RMSE: 0.000, Test RMSE: 0.004
+Model 3
+Train R2: 0.992, Test R2: 0.920, Train MAE: 0.014, Test MAE: 0.045, Train RMSE: 0.000, Test RMSE: 0.004
+Average
+Train R2: 0.991 +/- 0.001, Test R2: 0.913 +/- 0.010, Train MAE: 0.015 +/- 0.002, Test MAE: 0.047 +/- 0.003, Train RMSE: 0.000 +/- 0.000, Test RMSE: 0.004 +/- 0.000
+
+Target C_2H_5OH
+Model 0
+Train R2: 0.976, Test R2: 0.466, Train MAE: 0.014, Test MAE: 0.033, Train RMSE: 0.000, Test RMSE: 0.002
+Model 1
+Train R2: 0.964, Test R2: 0.832, Train MAE: 0.016, Test MAE: 0.022, Train RMSE: 0.000, Test RMSE: 0.001
+Model 2
+Train R2: 0.980, Test R2: 0.830, Train MAE: 0.011, Test MAE: 0.018, Train RMSE: 0.000, Test RMSE: 0.001
+Model 3
+Train R2: 0.977, Test R2: 0.778, Train MAE: 0.013, Test MAE: 0.023, Train RMSE: 0.000, Test RMSE: 0.001
+Average
+Train R2: 0.974 +/- 0.006, Test R2: 0.727 +/- 0.152, Train MAE: 0.013 +/- 0.002, Test MAE: 0.024 +/- 0.006, Train RMSE: 0.000 +/- 0.000, Test RMSE: 0.001 +/- 0.000
+
+Target H_2
+Model 0
+Train R2: 0.981, Test R2: 0.826, Train MAE: 0.014, Test MAE: 0.039, Train RMSE: 0.000, Test RMSE: 0.003
+Model 1
+Train R2: 0.979, Test R2: 0.837, Train MAE: 0.015, Test MAE: 0.043, Train RMSE: 0.000, Test RMSE: 0.002
+Model 2
+Train R2: 0.974, Test R2: 0.918, Train MAE: 0.015, Test MAE: 0.029, Train RMSE: 0.000, Test RMSE: 0.001
+Model 3
+Train R2: 0.971, Test R2: 0.869, Train MAE: 0.016, Test MAE: 0.035, Train RMSE: 0.000, Test RMSE: 0.002
+Average
+Train R2: 0.976 +/- 0.004, Test R2: 0.863 +/- 0.036, Train MAE: 0.015 +/- 0.001, Test MAE: 0.036 +/- 0.005, Train RMSE: 0.000 +/- 0.000, Test RMSE: 0.002 +/- 0.001
+
